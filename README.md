@@ -11,7 +11,7 @@ I build fast, clean, good-looking websites, especially e-commerce.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 What I'm up to
-- 🔨 Building: [your current project]
+- 🔨 Building: E-Commerce web apps
 - 📚 Learning: React, TypeScript, Next.js
 - 💼 Open to: freelance projects and internships
 

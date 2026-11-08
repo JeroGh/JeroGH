@@ -21,4 +21,4 @@ I build fast, clean, good-looking websites, especially e-commerce.
 
 ## 📫 Get in touch
 - Email: jerosammy5@gmail.com
-- Portfolio: (jerodev.me)
+- Portfolio: (https://jerodev.me/)
